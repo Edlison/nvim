@@ -31,6 +31,5 @@ Modify your key bindings here.
 - [null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) -- LSP diagnostics and code actions
 
 
-----
-# Refenreces
-https://github.com/LunarVim/Neovim-from-scratch/tree/master
+# References
+https://github.com/LunarVim/Neovim-from-scratch
